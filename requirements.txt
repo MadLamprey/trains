@@ -3,7 +3,6 @@ pandas
 numpy
 requests
 plotly
-zipfile
 io
 time
 calendar
