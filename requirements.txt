@@ -3,8 +3,4 @@ pandas
 numpy
 requests
 plotly
-io
-time
-calendar
-datetime
 altair
